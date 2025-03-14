@@ -1,3 +1,6 @@
 [submodule "events/TurkeyRun2024"]
 	path = events/TurkeyRun2024
 	url = https://github.com/jvermaas/turkeyrun.git
+[submodule "events/TurkeyRun2025"]
+	path = events/TurkeyRun2025
+	url = https://github.com/jvermaas/turkeyrun.git
